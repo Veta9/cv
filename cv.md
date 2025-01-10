@@ -41,4 +41,4 @@ I am currently working on this project: [rs-school CV](https://MotherOfParrots.g
 ## Languages
 
 * English (A2)
-* Russion (Native)
+* Russian (Native)
