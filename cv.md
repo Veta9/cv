@@ -27,3 +27,18 @@ def multiply(a, b):
 result = multiply(4, 2)
 print(result)
 ```
+## Education
+
+* Kemerovo State University:
+    * Higher legal education
+  
+* RS School JS/Front-End pre-school (in progress)
+
+## Experience
+
+I am currently working on this project: [rs-school CV](https://MotherOfParrots.github.io/rsschool-cv/cv)
+
+## Languages
+
+* English (A2)
+* Russion (Native)
